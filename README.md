@@ -1,4 +1,4 @@
-[![|Solid](https://imgur.com/3pCJZvF)](http://exocore.enjin.com/)
+[![|Solid](https://i.imgur.com/3pCJZvF.png)](http://exocore.enjin.com/)
 
 Exocore est un <b>RAPPELZ RPG MÉDIÉVAL</b> & <b>DIGIMON REMAKE</b> 
 
